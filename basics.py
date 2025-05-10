@@ -21,6 +21,10 @@ def get_root():
     'person_2' : {
         'name' : 'kartikey',
         'lastname' : 'gupta'
+    },
+    'person_3+4' : {
+        'name' : 'samyak',
+        'lastname' : 'jain'
     }
       }
 
